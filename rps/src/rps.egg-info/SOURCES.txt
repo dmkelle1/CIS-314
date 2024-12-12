@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/rps/__init__.py
+src/rps/rps.py
+src/rps.egg-info/PKG-INFO
+src/rps.egg-info/SOURCES.txt
+src/rps.egg-info/dependency_links.txt
+src/rps.egg-info/top_level.txt
